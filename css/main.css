@@ -1,0 +1,43 @@
+body {
+    background-color: #f2f2f2;
+}
+
+.container .jumbotron {
+    border-radius: 0px;
+}
+
+.container {
+	background-color: #fff;
+}
+
+.index-block-padding {
+	margin-top:50px;
+}
+
+
+
+
+
+@media (min-width: 400px) {
+	.zero-block {
+		display:none;
+	}	
+}
+
+@media (min-width: 992px) {
+	.zero-block {
+		display:inline-block;
+	}	
+}
+
+/* 
+
+@media (min-width: 992px) {
+	
+}
+
+@media (min-width: 1200px) {
+	
+} 
+
+*/
